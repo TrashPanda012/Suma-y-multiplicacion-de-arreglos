@@ -1,0 +1,10 @@
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\bin\Debug\Suma y multiplicación de arreglos.exe.config
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\bin\Debug\Suma y multiplicación de arreglos.exe
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\bin\Debug\Suma y multiplicación de arreglos.pdb
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma y multiplicación de arreglos.csproj.AssemblyReference.cache
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma_y_multiplicación_de_arreglos.Form1.resources
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma_y_multiplicación_de_arreglos.Properties.Resources.resources
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma y multiplicación de arreglos.csproj.GenerateResource.cache
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma y multiplicación de arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma y multiplicación de arreglos.exe
+C:\Users\Kevin Browne\source\repos\Suma y multiplicación de arreglos\Suma y multiplicación de arreglos\obj\Debug\Suma y multiplicación de arreglos.pdb
